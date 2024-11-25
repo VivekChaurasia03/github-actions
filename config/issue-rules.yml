@@ -6,8 +6,8 @@ rules:
       addLabels: ["bug"]
     - contains: feature
       addLabels: ["enhancement"]
-    - contains: ["inclass"]
-      addLabels: help wanted
+    - contains: inclass
+      addLabels: ["help wanted"]
       assign: ["VivekChaurasia03"]
     - contains: enpm611
       assign: ["enpm611"]
